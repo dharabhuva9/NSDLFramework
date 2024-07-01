@@ -1,0 +1,6 @@
+framework module NSDLTestFramework {
+  umbrella header "NSDLTestFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

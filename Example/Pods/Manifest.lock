@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (5.9.1)
+  - NSDLTestFramework (1.0.0):
+    - Alamofire (~> 5.9.1)
+
+DEPENDENCIES:
+  - NSDLTestFramework (from `../NSDLTestFramework`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  NSDLTestFramework:
+    :path: "../NSDLTestFramework"
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  NSDLTestFramework: a1238b00e79228b64dcbaeac23285319d6a97080
+
+PODFILE CHECKSUM: ae7cc0f4fc8e14ffa40183e86edefb5943b6d036
+
+COCOAPODS: 1.15.2
